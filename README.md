@@ -25,7 +25,7 @@ The Fitness Tracker Backend provides a secure and efficient API for managing use
 
 
 
-   ## Expense Swagger UI
+   ## fitness Swagger UI
    
    ![fitness Dashboard](./images/fit1.png)
    <br>
